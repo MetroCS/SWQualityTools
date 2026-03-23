@@ -9,20 +9,21 @@ Replace the source code in the [src](src) directory with the code you would like
 Test class names are recognized by the suffix "Test" (e.g., MainTest.java for tests of Main.java).
 
 ### Invoking and Reviewing
-All documentation and analysis tools:
+_Run all documentation and analysis tools:_
 `ant` or `ant all`
 
-View all results:
-open the top-level index.html file in a browser window
-
-Suppress most terminal messages, add -q or -quiet :
-`ant -q` or `ant -q all`
-
-List all available build targets:
+_List all available build targets:_
 `ant -p`
 
-Invoke a specific target, such as 'test':
-`ant test` or `ant -q test`
+_Invoke a specific target, such as 'test':_
+`ant test`
+
+_Run tools while suppressing most terminal messages:_
+`ant -q` or `ant -quiet`
+
+_View all results:_
+Open the [index.html](index.html) file in a browser window
+
 
 ## Tools Included
 This repository supports the following software development tools:
