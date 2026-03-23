@@ -4,7 +4,7 @@ This repository's functionality depends on the [Apache Ant](https://ant.apache.o
 
 ## Usage Notes
 
-Replace the source code in the src/ directory with the code you would like to document and analyze.
+Replace the source code in the [src](src) directory with the code you would like to document and analyze.
 
 Test class names are recognized by the suffix "Test" (e.g., MainTest.java for tests of Main.java).
 
@@ -34,11 +34,12 @@ This repository supports the following software development tools:
 - <a href="https://spotbugs.github.io">SpotBugs</a> - Bytecode-level bug finder
 
 ---
-SW Quality Tools provides learners with access to documentation and analysis tools
+SW Quality Tools provides learners with access to documentation and analysis tools.
+
 Copyright &copy; 2011,2026 Dr. Jody Paul
 
 This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
+it under the terms of the [GNU General Public License](LICENSE) as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
