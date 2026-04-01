@@ -1,4 +1,4 @@
-# TEMPORARILY OUT OF SERVICE (31 MARCH 2026 - 10:00AM MDT)
+# RESTORED MISSING .jar FILES (1 April 2026, 1:15PM MDT)
 
 # Software Development Tools
 
