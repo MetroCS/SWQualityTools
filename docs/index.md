@@ -40,7 +40,7 @@ This repository supports the following software development tools:
 ---
 SW Quality Tools provides learners with access to documentation and analysis tools.
 
-Copyright &copy; 2011,2026 Dr. Jody Paul
+Copyright &copy; 2026 Dr. Jody Paul
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the [GNU General Public License](LICENSE) as published by
