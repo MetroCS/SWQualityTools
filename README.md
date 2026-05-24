@@ -1,12 +1,15 @@
-# Software Development Tools
+# Software Quality Tools
 
-This repository's functionality depends on the [Apache Ant](https://ant.apache.org) build automation tool having already been installed.
+SW Quality Tools provides learners with access to, and facilitates integration of,
+both static and dynamic software quality assessment tools.
 
 ## Usage Notes
 
 Replace the source code in the [src](src) directory with the code you would like to document and analyze.
 
 Test class names are recognized by the suffix "Test" (e.g., MainTest.java for tests of Main.java).
+
+This repository's functionality depends on the [Apache Ant](https://ant.apache.org) build automation tool having already been installed.
 
 ### Invoking and Reviewing
 _Run all documentation and analysis tools:_
@@ -37,7 +40,7 @@ This repository supports the following software development tools:
 ---
 SW Quality Tools provides learners with access to documentation and analysis tools.
 
-Copyright &copy; 2011,2026 Dr. Jody Paul
+Copyright &copy; 2026 Dr. Jody Paul, derived from prior work &copy; 2011 Dr. Jody Paul.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the [GNU General Public License](LICENSE) as published by
