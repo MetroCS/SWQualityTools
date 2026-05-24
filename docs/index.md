@@ -1,7 +1,7 @@
 # Software Quality Tools
 
 SWQualityTools provides learners with access to documentation and analysis tools,
-facilitating integration of a set of static and dynamic software quality assessment and development tools.
+facilitating their use of a curated collection of static and dynamic software quality assessment tools.
 
 ## Usage Notes
 
