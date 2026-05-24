@@ -1,5 +1,3 @@
-# RESTORED MISSING .jar FILES (1 April 2026, 1:15PM MDT)
-
 # Software Development Tools
 
 This repository's functionality depends on the [Apache Ant](https://ant.apache.org) build automation tool having already been installed.
