@@ -1,1 +1,3 @@
-remote_theme: pages-themes/minimal@v0.2.0
+title: Software Quality Tools
+description: Facilitated access to a curated collection of software documentation and quality assessment tools
+remote_theme: pages-themes/modernist@v0.2.0
